@@ -1,0 +1,8 @@
+packages:
+  - "packages/*"
+  - "apps/*"
+
+# sharp es el optimizador de imágenes de next/image, que va a hacer el trabajo
+# pesado de los modos Silueta y Splash-zoom. Necesita su script de instalación.
+allowBuilds:
+  sharp: true

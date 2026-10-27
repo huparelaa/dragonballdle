@@ -1,0 +1,2832 @@
+{
+  "version": "1.0.0",
+  "generado_por": "build_dataset.py (agente de datos)",
+  "fecha": "2026-08-01",
+  "nota": "Alcance canon según README §2.1. Ver data/taxonomias.md, data/debut-orden.md, y README §5 y §7.",
+  "taxonomias": {
+    "raza": [
+      "Saiyan",
+      "Humano",
+      "Namekiano",
+      "Androide",
+      "Majin",
+      "Raza de Freezer",
+      "Deidad",
+      "Ángel",
+      "Demonio",
+      "Otra especie",
+      "Animal antropomorfo"
+    ],
+    "genero": [
+      "masculino",
+      "femenino"
+    ],
+    "afiliacion_principal": [
+      "Guerreros Z",
+      "Escuela Tortuga",
+      "Escuela de la Grulla",
+      "Corporación Cápsula",
+      "Deidades de la Tierra",
+      "Kaios y Kaio-shins",
+      "Dioses de la Destrucción",
+      "Ángeles",
+      "Clan Namekiano",
+      "Ejército Saiyan",
+      "Ejército de Freezer",
+      "Fuerzas Especiales Ginyu",
+      "Ejército del Listón Rojo",
+      "Androides del Dr. Gero",
+      "Familia Majin",
+      "Tropas del Orgullo",
+      "Equipo del Universo 6",
+      "Sin afiliación"
+    ],
+    "rol_narrativo": [
+      "protagonista",
+      "antagonista",
+      "secundario"
+    ],
+    "estado": [
+      "vivo",
+      "muerto"
+    ],
+    "universo": [
+      "Universo 6",
+      "Universo 7",
+      "Universo 10",
+      "Universo 11",
+      "Multiverso"
+    ],
+    "debut": [
+      {
+        "indice": 1,
+        "nombre": "Dragon Ball – Saga de las Esferas y el 21.º Torneo"
+      },
+      {
+        "indice": 2,
+        "nombre": "Dragon Ball – Saga del Listón Rojo y el 22.º Torneo"
+      },
+      {
+        "indice": 3,
+        "nombre": "Dragon Ball: La leyenda de Shenlong"
+      },
+      {
+        "indice": 4,
+        "nombre": "Dragon Ball: El castillo del demonio"
+      },
+      {
+        "indice": 5,
+        "nombre": "Dragon Ball – Saga de Piccolo Daimaō y el 23.º Torneo"
+      },
+      {
+        "indice": 6,
+        "nombre": "Dragon Ball: Aventura mística"
+      },
+      {
+        "indice": 7,
+        "nombre": "Dragon Ball Z – Saga de los Saiyajin"
+      },
+      {
+        "indice": 8,
+        "nombre": "Dragon Ball Z: Devuélveme a mi Gohan"
+      },
+      {
+        "indice": 9,
+        "nombre": "Dragon Ball Z – Saga de Namek y Freezer"
+      },
+      {
+        "indice": 10,
+        "nombre": "Dragon Ball Z: El hombre más fuerte del mundo"
+      },
+      {
+        "indice": 11,
+        "nombre": "Dragon Ball Z: El árbol del poder"
+      },
+      {
+        "indice": 12,
+        "nombre": "Dragon Ball Z: Bardock, el padre de Goku"
+      },
+      {
+        "indice": 13,
+        "nombre": "Dragon Ball Z: Los guerreros más poderosos"
+      },
+      {
+        "indice": 14,
+        "nombre": "Dragon Ball Z: La venganza de Cooler"
+      },
+      {
+        "indice": 15,
+        "nombre": "Dragon Ball Z – Saga de los Androides y Cell"
+      },
+      {
+        "indice": 16,
+        "nombre": "Dragon Ball Z: El regreso de Cooler"
+      },
+      {
+        "indice": 17,
+        "nombre": "Dragon Ball Z: Los súper androides"
+      },
+      {
+        "indice": 18,
+        "nombre": "Dragon Ball Z: La historia de Trunks"
+      },
+      {
+        "indice": 19,
+        "nombre": "Dragon Ball Z: Broly, el Super Saiyajin legendario"
+      },
+      {
+        "indice": 20,
+        "nombre": "Dragon Ball Z: Los guerreros de plata"
+      },
+      {
+        "indice": 21,
+        "nombre": "Dragon Ball Z – Saga de Majin Buu"
+      },
+      {
+        "indice": 22,
+        "nombre": "Dragon Ball Z: El regreso de Broly"
+      },
+      {
+        "indice": 23,
+        "nombre": "Dragon Ball Z: Bio-Broly"
+      },
+      {
+        "indice": 24,
+        "nombre": "Dragon Ball Z: La fusión de Goku y Vegeta"
+      },
+      {
+        "indice": 25,
+        "nombre": "Dragon Ball Z: El ataque del dragón"
+      },
+      {
+        "indice": 26,
+        "nombre": "Dragon Ball GT – Saga de Black Star"
+      },
+      {
+        "indice": 27,
+        "nombre": "Dragon Ball: El camino hacia el poder"
+      },
+      {
+        "indice": 28,
+        "nombre": "Dragon Ball GT – Saga de Baby"
+      },
+      {
+        "indice": 29,
+        "nombre": "Dragon Ball GT – Saga de Super 17"
+      },
+      {
+        "indice": 30,
+        "nombre": "Dragon Ball GT: 100 años después"
+      },
+      {
+        "indice": 31,
+        "nombre": "Dragon Ball GT – Saga de los Dragones Malignos"
+      },
+      {
+        "indice": 32,
+        "nombre": "Dragon Ball Z: La batalla de los dioses"
+      },
+      {
+        "indice": 33,
+        "nombre": "Dragon Ball Z: La resurrección de Freezer"
+      },
+      {
+        "indice": 34,
+        "nombre": "Dragon Ball Super – Saga de Batalla de los dioses"
+      },
+      {
+        "indice": 35,
+        "nombre": "Dragon Ball Super – Saga de la Resurrección de F"
+      },
+      {
+        "indice": 36,
+        "nombre": "Dragon Ball Super – Saga del Universo 6"
+      },
+      {
+        "indice": 37,
+        "nombre": "Dragon Ball Super – Saga de Trunks del Futuro"
+      },
+      {
+        "indice": 38,
+        "nombre": "Dragon Ball Super – Saga de la Supervivencia Universal"
+      },
+      {
+        "indice": 39,
+        "nombre": "Dragon Ball Super: Broly"
+      },
+      {
+        "indice": 40,
+        "nombre": "Dragon Ball Super: Super Hero"
+      },
+      {
+        "indice": 41,
+        "nombre": "Dragon Ball Daima"
+      }
+    ]
+  },
+  "personajes": [
+    {
+      "id": "goku",
+      "nombre": "Goku",
+      "alias": [
+        "Son Goku",
+        "Kakarot",
+        "Kakarotto",
+        "Goku Son"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Escuela Tortuga"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Gran Simio",
+        "Kaio-Ken",
+        "Super Saiyajin",
+        "Super Saiyajin 2",
+        "Super Saiyajin 3",
+        "Super Saiyajin 4",
+        "Super Saiyajin God",
+        "Super Saiyajin Blue",
+        "Ultra Instinto"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 175,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/goku_normal.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "vegeta",
+      "nombre": "Vegeta",
+      "alias": [
+        "Príncipe Vegeta",
+        "Vegeta IV",
+        "Majin Vegeta"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Saiyajin",
+      "debut_indice": 7,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Ejército Saiyan",
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Gran Simio",
+        "Super Saiyajin",
+        "Super Saiyajin 2",
+        "Majin Vegeta",
+        "Super Saiyajin 4",
+        "Super Saiyajin God",
+        "Super Saiyajin Blue",
+        "Super Saiyajin Blue Evolución",
+        "Ultra Ego"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 164,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/vegeta_normal.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "gohan",
+      "nombre": "Gohan",
+      "alias": [
+        "Son Gohan",
+        "Gran Saiyaman",
+        "Son Gohanda"
+      ],
+      "raza": [
+        "Saiyan",
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Saiyajin",
+      "debut_indice": 7,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Gran Simio",
+        "Super Saiyajin",
+        "Super Saiyajin 2",
+        "Gohan Definitivo (Místico)",
+        "Gohan Beast"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 176,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/gohan.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "piccolo",
+      "nombre": "Piccolo",
+      "alias": [
+        "Piccolo Jr.",
+        "Picoro",
+        "Piccoro",
+        "Namekiano"
+      ],
+      "raza": [
+        "Namekiano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de Piccolo Daimaō y el 23.º Torneo",
+      "debut_indice": 5,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Súper Namekiano",
+        "Gigantificación",
+        "Piccolo Naranja"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 226,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/picolo_normal.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "trunks-futuro",
+      "nombre": "Trunks del Futuro",
+      "alias": [
+        "Mirai Trunks",
+        "Trunks futuro",
+        "Trunks adulto"
+      ],
+      "raza": [
+        "Saiyan",
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Corporación Cápsula"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin 2",
+        "Super Saiyajin Ira"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 170,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Línea temporal alterna; estado tomado al final de su participación en Super."
+    },
+    {
+      "id": "krilin",
+      "nombre": "Krilin",
+      "alias": [
+        "Krillin",
+        "Kuririn",
+        "Krilin Chestnut",
+        "Cuatro Ojos"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Escuela Tortuga"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 153,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Krilin_Universo7.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "bulma",
+      "nombre": "Bulma",
+      "alias": [
+        "Bulma Brief",
+        "Bulma Briefs"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Corporación Cápsula"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 165,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/bulma.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "ten-shin-han",
+      "nombre": "Ten Shin Han",
+      "alias": [
+        "Tenshinhan",
+        "Tien Shinhan",
+        "Ten",
+        "Tien"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga del Listón Rojo y el 22.º Torneo",
+      "debut_indice": 2,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Escuela de la Grulla"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 187,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Tenshinhan_Universo7.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "chaoz",
+      "nombre": "Chaoz",
+      "alias": [
+        "Chiaotzu",
+        "Chao Zu",
+        "Chaos",
+        "Chaozu"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga del Listón Rojo y el 22.º Torneo",
+      "debut_indice": 2,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Escuela de la Grulla"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 138,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "yamcha",
+      "nombre": "Yamcha",
+      "alias": [
+        "Yamsha",
+        "Yamucha",
+        "Bandido del desierto"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Escuela Tortuga"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 183,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Final_Yamcha.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "muten-roshi",
+      "nombre": "Muten Roshi",
+      "alias": [
+        "Maestro Roshi",
+        "Master Roshi",
+        "Kame Sennin",
+        "Tortuga Genial",
+        "Muten Roshy"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Escuela Tortuga"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Máximo Poder (musculoso)"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 165,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/roshi.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "chichi",
+      "nombre": "Chi-Chi",
+      "alias": [
+        "Chichi",
+        "Milk"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 163,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/ChiChi_DBS.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "goten",
+      "nombre": "Goten",
+      "alias": [
+        "Son Goten"
+      ],
+      "raza": [
+        "Saiyan",
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 123,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Altura canónica corresponde a su forma infantil (Super Exciting Guide)."
+    },
+    {
+      "id": "trunks",
+      "nombre": "Trunks",
+      "alias": [
+        "Trunks nino",
+        "Trunks Brief",
+        "Chibi Trunks"
+      ],
+      "raza": [
+        "Saiyan",
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Corporación Cápsula"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 129,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Trunks_Buu_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Altura canónica corresponde a su forma infantil (Super Exciting Guide)."
+    },
+    {
+      "id": "videl",
+      "nombre": "Videl",
+      "alias": [
+        "Videl Satan",
+        "Gran Saiyaman 2"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 157,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "pan",
+      "nombre": "Pan",
+      "alias": [
+        "Pan Son"
+      ],
+      "raza": [
+        "Saiyan",
+        "Humano"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 125,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "mr-satan",
+      "nombre": "Mr. Satan",
+      "alias": [
+        "Mister Satan",
+        "Hercule",
+        "Satan",
+        "Campeón del mundo"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 188,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Mr_Satan_DBSuper.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "No murió en la destrucción de la Tierra: fue teletransportado al Planeta Sagrado."
+    },
+    {
+      "id": "androide-18",
+      "nombre": "Androide 18",
+      "alias": [
+        "A18",
+        "C-18",
+        "Numero 18",
+        "Lazuli",
+        "Android 18"
+      ],
+      "raza": [
+        "Humano",
+        "Androide"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Guerreros Z",
+        "Androides del Dr. Gero",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 168,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Androide_18_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "androide-17",
+      "nombre": "Androide 17",
+      "alias": [
+        "A17",
+        "C-17",
+        "Numero 17",
+        "Lapis",
+        "Android 17"
+      ],
+      "raza": [
+        "Humano",
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Androides del Dr. Gero",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 170,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/17_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "androide-16",
+      "nombre": "Androide 16",
+      "alias": [
+        "A16",
+        "C-16",
+        "Numero 16",
+        "Android 16"
+      ],
+      "raza": [
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Androides del Dr. Gero",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 250,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Androide_16.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "dende",
+      "nombre": "Dende",
+      "alias": [
+        "Dios Dende",
+        "Kami Dende"
+      ],
+      "raza": [
+        "Namekiano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Namek y Freezer",
+      "debut_indice": 9,
+      "afiliacion_principal": [
+        "Deidades de la Tierra",
+        "Clan Namekiano"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 130,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Dende_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "kami",
+      "nombre": "Kami",
+      "alias": [
+        "Kamisama",
+        "Dios",
+        "Dios de la Tierra",
+        "Kami-sama"
+      ],
+      "raza": [
+        "Namekiano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de Piccolo Daimaō y el 23.º Torneo",
+      "debut_indice": 5,
+      "afiliacion_principal": [
+        "Deidades de la Tierra",
+        "Clan Namekiano"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 223,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Regla de fusión: la fusión permanente con Piccolo no cuenta como muerte."
+    },
+    {
+      "id": "korin",
+      "nombre": "Korin",
+      "alias": [
+        "Karin",
+        "Maestro Korin",
+        "Korin el gato"
+      ],
+      "raza": [
+        "Animal antropomorfo"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga del Listón Rojo y el 22.º Torneo",
+      "debut_indice": 2,
+      "afiliacion_principal": [
+        "Deidades de la Tierra"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 80,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "yajirobe",
+      "nombre": "Yajirobe",
+      "alias": [
+        "Yajirobei",
+        "Yayirobe"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de Piccolo Daimaō y el 23.º Torneo",
+      "debut_indice": 5,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 165,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "oolong",
+      "nombre": "Oolong",
+      "alias": [
+        "Olong",
+        "Ulong",
+        "Puerco Oolong"
+      ],
+      "raza": [
+        "Animal antropomorfo"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 121,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "puar",
+      "nombre": "Puar",
+      "alias": [
+        "Pu'ar",
+        "Puarh",
+        "Pual"
+      ],
+      "raza": [
+        "Animal antropomorfo"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 40,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "launch",
+      "nombre": "Launch",
+      "alias": [
+        "Lunch",
+        "Lanch"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball – Saga de las Esferas y el 21.º Torneo",
+      "debut_indice": 1,
+      "afiliacion_principal": [
+        "Escuela Tortuga"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Launch de pelo azul (dulce)",
+        "Launch rubia (agresiva)"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 168,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Lunch_traje_de_sirvienta_en_el_manga.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Estado tomado al final de su participación (Dragon Ball / inicio de Z)."
+    },
+    {
+      "id": "bardock",
+      "nombre": "Bardock",
+      "alias": [
+        "Bardoc",
+        "Baddack",
+        "padre de Goku"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Saiyajin",
+      "debut_indice": 7,
+      "afiliacion_principal": [
+        "Ejército Saiyan",
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Gran Simio"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Bardock_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Su Super Saiyajin proviene de Episode of Bardock, fuera del alcance canon de la v1."
+    },
+    {
+      "id": "uub",
+      "nombre": "Uub",
+      "alias": [
+        "Oob",
+        "Ub",
+        "Majuub",
+        "Uubu"
+      ],
+      "raza": [
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Majuub"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Altura corresponde a su forma adulta de GT (estimada)."
+    },
+    {
+      "id": "kaio-del-norte",
+      "nombre": "Kaio del Norte",
+      "alias": [
+        "Kaito",
+        "Kaio Sama",
+        "King Kai",
+        "Kaiosama"
+      ],
+      "raza": [
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Saiyajin",
+      "debut_indice": 7,
+      "afiliacion_principal": [
+        "Kaios y Kaio-shins"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 140,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Kaio_del_Norte.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Muere en la autodestrucción de Cell; aparece con aureola posteriormente."
+    },
+    {
+      "id": "kaioshin-este",
+      "nombre": "Kaio-shin del Este",
+      "alias": [
+        "Shin",
+        "Supremo Kaio-sama",
+        "Kaioshin",
+        "Supreme Kai"
+      ],
+      "raza": [
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Kaios y Kaio-shins"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 150,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Kaio-shin_del_este_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "nail",
+      "nombre": "Nail",
+      "alias": [
+        "Neil",
+        "Nairu"
+      ],
+      "raza": [
+        "Namekiano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Namek y Freezer",
+      "debut_indice": 9,
+      "afiliacion_principal": [
+        "Clan Namekiano"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 200,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Nail_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Regla de fusión: la fusión permanente con Piccolo no cuenta como muerte."
+    },
+    {
+      "id": "gotenks",
+      "nombre": "Gotenks",
+      "alias": [
+        "Gotrunks",
+        "Gotenkusu"
+      ],
+      "raza": [
+        "Saiyan",
+        "Humano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin 3"
+      ],
+      "es_fusion": true,
+      "rol_narrativo": "secundario",
+      "altura_cm": 130,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Gotenks_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "vegetto",
+      "nombre": "Vegetto",
+      "alias": [
+        "Vegito",
+        "Vegerot",
+        "Vegeto"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin Blue"
+      ],
+      "es_fusion": true,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/transformaciones/Vegetto.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "gogeta",
+      "nombre": "Gogeta",
+      "alias": [
+        "Gogueta",
+        "Gogetto"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: La fusión de Goku y Vegeta",
+      "debut_indice": 24,
+      "afiliacion_principal": [
+        "Guerreros Z"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin 4",
+        "Super Saiyajin Blue",
+        "Super Saiyajin Blue Evolución"
+      ],
+      "es_fusion": true,
+      "rol_narrativo": "protagonista",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/transformaciones/gogeta.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "kefla",
+      "nombre": "Kefla",
+      "alias": [
+        "Kefura",
+        "Caulifla y Kale"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Super – Saga de la Supervivencia Universal",
+      "debut_indice": 38,
+      "afiliacion_principal": [
+        "Equipo del Universo 6"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin 2"
+      ],
+      "es_fusion": true,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 170,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "rey-piccolo",
+      "nombre": "Rey Piccolo",
+      "alias": [
+        "Piccolo Daimao",
+        "Piccolo Daimaku",
+        "Gran Demonio Piccolo",
+        "King Piccolo"
+      ],
+      "raza": [
+        "Namekiano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga de Piccolo Daimaō y el 23.º Torneo",
+      "debut_indice": 5,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Forma rejuvenecida"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 250,
+      "altura_fuente": "canonica",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "tao-pai-pai",
+      "nombre": "Tao Pai Pai",
+      "alias": [
+        "Taopaipai",
+        "Mercenary Tao",
+        "General Tao"
+      ],
+      "raza": [
+        "Humano",
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball – Saga del Listón Rojo y el 22.º Torneo",
+      "debut_indice": 2,
+      "afiliacion_principal": [
+        "Escuela de la Grulla",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Cyborg Tao"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 178,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "raditz",
+      "nombre": "Raditz",
+      "alias": [
+        "Radix",
+        "Raditsu",
+        "hermano de Goku"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Saiyajin",
+      "debut_indice": 7,
+      "afiliacion_principal": [
+        "Ejército Saiyan",
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 200,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Raditz_artwork_Dokkan.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "nappa",
+      "nombre": "Nappa",
+      "alias": [
+        "Nappa el Saiyan"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Saiyajin",
+      "debut_indice": 7,
+      "afiliacion_principal": [
+        "Ejército Saiyan",
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 210,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "freezer",
+      "nombre": "Freezer",
+      "alias": [
+        "Frieza",
+        "Freeza",
+        "Lord Freezer",
+        "Freezer Sama",
+        "Golden Freezer"
+      ],
+      "raza": [
+        "Raza de Freezer"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Namek y Freezer",
+      "debut_indice": 9,
+      "afiliacion_principal": [
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Primera forma",
+        "Segunda forma",
+        "Tercera forma",
+        "Forma final",
+        "Forma final al 100%",
+        "Golden Freezer",
+        "Black Freezer"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 158,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Freezer.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Altura canónica corresponde a su forma final (Daizenshuu)."
+    },
+    {
+      "id": "zarbon",
+      "nombre": "Zarbon",
+      "alias": [
+        "Zaabon"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Namek y Freezer",
+      "debut_indice": 9,
+      "afiliacion_principal": [
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Forma monstruo"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 190,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/zarbon.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "dodoria",
+      "nombre": "Dodoria",
+      "alias": [
+        "Dodoriah"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Namek y Freezer",
+      "debut_indice": 9,
+      "afiliacion_principal": [
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 195,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/dodoria.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "ginyu",
+      "nombre": "Capitán Ginyu",
+      "alias": [
+        "Ginyu",
+        "Ginew",
+        "Capitán Ginew"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Namek y Freezer",
+      "debut_indice": 9,
+      "afiliacion_principal": [
+        "Ejército de Freezer",
+        "Fuerzas Especiales Ginyu"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 210,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/ginyu.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "rey-cold",
+      "nombre": "Rey Cold",
+      "alias": [
+        "King Cold",
+        "Rey Kold",
+        "padre de Freezer"
+      ],
+      "raza": [
+        "Raza de Freezer"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 250,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "cell",
+      "nombre": "Cell",
+      "alias": [
+        "Celula",
+        "Celda",
+        "Cell Perfecto",
+        "Bioandroide"
+      ],
+      "raza": [
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Androides del Dr. Gero"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Forma imperfecta",
+        "Forma semiperfecta",
+        "Forma perfecta",
+        "Cell Súper Perfecto"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 213,
+      "altura_fuente": "canonica",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/celula.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Altura canónica corresponde a su forma perfecta (Daizenshuu)."
+    },
+    {
+      "id": "androide-19",
+      "nombre": "Androide 19",
+      "alias": [
+        "A19",
+        "C-19",
+        "Numero 19",
+        "Android 19"
+      ],
+      "raza": [
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Androides del Dr. Gero",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 155,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Android19.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "dr-gero",
+      "nombre": "Dr. Gero",
+      "alias": [
+        "Doctor Gero",
+        "Androide 20",
+        "A20",
+        "C-20",
+        "Doctor Maki Gero"
+      ],
+      "raza": [
+        "Humano",
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de los Androides y Cell",
+      "debut_indice": 15,
+      "afiliacion_principal": [
+        "Androides del Dr. Gero",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 165,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Dr._Gero nadroide 20.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "majin-buu",
+      "nombre": "Majin Buu",
+      "alias": [
+        "Boo",
+        "Majin Boo",
+        "Buu Gordo",
+        "Kid Buu",
+        "Buu Puro",
+        "Súper Buu",
+        "Mr. Buu"
+      ],
+      "raza": [
+        "Majin"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Familia Majin"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Majin Buu (Gordo)",
+        "Súper Buu",
+        "Súper Buu (Gotenks absorbido)",
+        "Súper Buu (Gohan absorbido)",
+        "Kid Buu (Buu Puro)"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 200,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/BuuGordo_Universo7.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Entrada única por identidad; su mitad buena (Mr. Buu) sigue viva y se trata como forma."
+    },
+    {
+      "id": "babidi",
+      "nombre": "Babidi",
+      "alias": [
+        "Bobidi",
+        "Babidee",
+        "Babidy"
+      ],
+      "raza": [
+        "Majin"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Familia Majin"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 100,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Babidi_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "dabura",
+      "nombre": "Dabura",
+      "alias": [
+        "Darbura",
+        "Dabra",
+        "Rey del Mundo Oscuro"
+      ],
+      "raza": [
+        "Demonio"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z – Saga de Majin Buu",
+      "debut_indice": 21,
+      "afiliacion_principal": [
+        "Familia Majin"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 200,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "garlic-jr",
+      "nombre": "Garlic Jr.",
+      "alias": [
+        "Garlick Jr.",
+        "Garlic Junior"
+      ],
+      "raza": [
+        "Demonio"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: Devuélveme a mi Gohan",
+      "debut_indice": 8,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Forma Súper"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 120,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Encerrado para siempre en la Zona Muerta: sigue vivo al final de su participación."
+    },
+    {
+      "id": "turles",
+      "nombre": "Turles",
+      "alias": [
+        "Tullece",
+        "Taress",
+        "Tarble no",
+        "Turlex"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: El árbol del poder",
+      "debut_indice": 11,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "lord-slug",
+      "nombre": "Lord Slug",
+      "alias": [
+        "Slug",
+        "Namekiano Slug",
+        "Sulug"
+      ],
+      "raza": [
+        "Namekiano"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: Los guerreros más poderosos",
+      "debut_indice": 13,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Súper Namekiano",
+        "Gigantificación"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 235,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "cooler",
+      "nombre": "Cooler",
+      "alias": [
+        "Kuula",
+        "Coola",
+        "hermano de Freezer",
+        "Metal Cooler"
+      ],
+      "raza": [
+        "Raza de Freezer"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: La venganza de Cooler",
+      "debut_indice": 14,
+      "afiliacion_principal": [
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Forma final (quinta forma)",
+        "Meta-Cooler"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "androide-13",
+      "nombre": "Androide 13",
+      "alias": [
+        "A13",
+        "C-13",
+        "Numero 13",
+        "Android 13"
+      ],
+      "raza": [
+        "Androide"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: Los súper androides",
+      "debut_indice": 17,
+      "afiliacion_principal": [
+        "Androides del Dr. Gero",
+        "Ejército del Listón Rojo"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Androide 13 fusionado"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 205,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Androide13normal.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "broly-legendario",
+      "nombre": "Broly (Legendario)",
+      "alias": [
+        "Brolly",
+        "Broli",
+        "Super Saiyajin Legendario",
+        "Broly de Z",
+        "Broly DBZ"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: Broly, el Super Saiyajin legendario",
+      "debut_indice": 19,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin Legendario"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 230,
+      "altura_fuente": "canonica",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Broly de 1993, de dimensión alterna. Personaje distinto del de 2018 (README §7)."
+    },
+    {
+      "id": "broly-super",
+      "nombre": "Broly (Super)",
+      "alias": [
+        "Broly de Super",
+        "Broly DBS",
+        "Broly canon"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super: Broly",
+      "debut_indice": 39,
+      "afiliacion_principal": [
+        "Ejército de Freezer"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin (Ira)",
+        "Super Saiyajin Legendario"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 230,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/transformaciones/Broly_DBS_Base.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": "Broly de 2018, versión de Toriyama, continuidad principal (README §7)."
+    },
+    {
+      "id": "bojack",
+      "nombre": "Bojack",
+      "alias": [
+        "Bojak",
+        "Bojaku"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: Los guerreros de plata",
+      "debut_indice": 20,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Forma Full Power"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 200,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "janemba",
+      "nombre": "Janemba",
+      "alias": [
+        "Yanemba",
+        "Super Janemba"
+      ],
+      "raza": [
+        "Demonio"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: La fusión de Goku y Vegeta",
+      "debut_indice": 24,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Janemba"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 230,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/transformaciones/Janemba_artwork_SDBH.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "tapion",
+      "nombre": "Tapion",
+      "alias": [
+        "Tapion de Konats"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: El ataque del dragón",
+      "debut_indice": 25,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 165,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "beerus",
+      "nombre": "Beerus",
+      "alias": [
+        "Bills",
+        "Bers",
+        "Dios de la Destrucción Beerus",
+        "Beers"
+      ],
+      "raza": [
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: La batalla de los dioses",
+      "debut_indice": 32,
+      "afiliacion_principal": [
+        "Dioses de la Destrucción"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 195,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Beerus_DBS_Broly_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "whis",
+      "nombre": "Whis",
+      "alias": [
+        "Wiss",
+        "Whiss",
+        "ángel Whis"
+      ],
+      "raza": [
+        "Ángel"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Z: La batalla de los dioses",
+      "debut_indice": 32,
+      "afiliacion_principal": [
+        "Ángeles"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 220,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Whis_DBS_Broly_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "champa",
+      "nombre": "Champa",
+      "alias": [
+        "Champa Sama",
+        "Dios de la Destrucción Champa"
+      ],
+      "raza": [
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga del Universo 6",
+      "debut_indice": 36,
+      "afiliacion_principal": [
+        "Dioses de la Destrucción"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 165,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "vados",
+      "nombre": "Vados",
+      "alias": [
+        "Bados",
+        "ángel Vados"
+      ],
+      "raza": [
+        "Ángel"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Super – Saga del Universo 6",
+      "debut_indice": 36,
+      "afiliacion_principal": [
+        "Ángeles"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 220,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "frost",
+      "nombre": "Frost",
+      "alias": [
+        "Furosuto",
+        "Freezer del Universo 6"
+      ],
+      "raza": [
+        "Raza de Freezer"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga del Universo 6",
+      "debut_indice": 36,
+      "afiliacion_principal": [
+        "Equipo del Universo 6"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Segunda forma",
+        "Forma final",
+        "Forma de asalto"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 158,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "hit",
+      "nombre": "Hit",
+      "alias": [
+        "Hitto",
+        "Hit el asesino"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga del Universo 6",
+      "debut_indice": 36,
+      "afiliacion_principal": [
+        "Equipo del Universo 6"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 193,
+      "altura_fuente": "canonica",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "cabba",
+      "nombre": "Cabba",
+      "alias": [
+        "Kyabe",
+        "Caba",
+        "Cabe"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga del Universo 6",
+      "debut_indice": 36,
+      "afiliacion_principal": [
+        "Equipo del Universo 6"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin 2"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 165,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "caulifla",
+      "nombre": "Caulifla",
+      "alias": [
+        "Kyabetsu",
+        "Colifla",
+        "Caulifa"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Super – Saga de la Supervivencia Universal",
+      "debut_indice": 38,
+      "afiliacion_principal": [
+        "Equipo del Universo 6"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin",
+        "Super Saiyajin 2"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 160,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "kale",
+      "nombre": "Kale",
+      "alias": [
+        "Keru",
+        "Kale Berserker"
+      ],
+      "raza": [
+        "Saiyan"
+      ],
+      "genero": "femenino",
+      "debut": "Dragon Ball Super – Saga de la Supervivencia Universal",
+      "debut_indice": 38,
+      "afiliacion_principal": [
+        "Equipo del Universo 6"
+      ],
+      "universo": "Universo 6",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin Berserker",
+        "Super Saiyajin 2 (controlada)"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 165,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "zamasu",
+      "nombre": "Zamasu",
+      "alias": [
+        "Zamas",
+        "Zamasu Fusionado",
+        "Zamasu Inmortal"
+      ],
+      "raza": [
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga de Trunks del Futuro",
+      "debut_indice": 37,
+      "afiliacion_principal": [
+        "Kaios y Kaio-shins"
+      ],
+      "universo": "Universo 10",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Zamasu Inmortal",
+        "Zamasu Fusionado"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 180,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": null
+    },
+    {
+      "id": "goku-black",
+      "nombre": "Goku Black",
+      "alias": [
+        "Black",
+        "Black Goku",
+        "Super Saiyajin Rosé"
+      ],
+      "raza": [
+        "Saiyan",
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga de Trunks del Futuro",
+      "debut_indice": 37,
+      "afiliacion_principal": [
+        "Kaios y Kaio-shins"
+      ],
+      "universo": "Universo 10",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Super Saiyajin Rosé"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 175,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Zamasu del Universo 10 en el cuerpo del Goku del Universo 7 (ver README §7)."
+    },
+    {
+      "id": "jiren",
+      "nombre": "Jiren",
+      "alias": [
+        "Jiren el Gris",
+        "Jiren Full Power"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga de la Supervivencia Universal",
+      "debut_indice": 38,
+      "afiliacion_principal": [
+        "Tropas del Orgullo"
+      ],
+      "universo": "Universo 11",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 185,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Jiren.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "toppo",
+      "nombre": "Toppo",
+      "alias": [
+        "Top",
+        "Toppo el Justiciero"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga de la Supervivencia Universal",
+      "debut_indice": 38,
+      "afiliacion_principal": [
+        "Tropas del Orgullo"
+      ],
+      "universo": "Universo 11",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Dios de la Destrucción"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 210,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Toppo.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "zeno",
+      "nombre": "Zeno",
+      "alias": [
+        "Zen-Oh",
+        "Zeno Sama",
+        "Rey de Todo",
+        "Todito",
+        "Zen Oo"
+      ],
+      "raza": [
+        "Deidad"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball Super – Saga del Universo 6",
+      "debut_indice": 36,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Multiverso",
+      "tiene_transformaciones": false,
+      "transformaciones": [],
+      "es_fusion": false,
+      "rol_narrativo": "secundario",
+      "altura_cm": 60,
+      "altura_fuente": "estimada",
+      "estado": "vivo",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": "https://dragonball-api.com/characters/Zeno_Artwork.webp",
+      "imagen_fuente": "dragonball-api.com",
+      "notas": null
+    },
+    {
+      "id": "baby",
+      "nombre": "Baby",
+      "alias": [
+        "Bebi",
+        "Baby Vegeta",
+        "Bebi Vegeta"
+      ],
+      "raza": [
+        "Otra especie"
+      ],
+      "genero": "masculino",
+      "debut": "Dragon Ball GT – Saga de Baby",
+      "debut_indice": 28,
+      "afiliacion_principal": [
+        "Sin afiliación"
+      ],
+      "universo": "Universo 7",
+      "tiene_transformaciones": true,
+      "transformaciones": [
+        "Baby Vegeta",
+        "Súper Baby 1",
+        "Súper Baby 2",
+        "Gran Simio Dorado"
+      ],
+      "es_fusion": false,
+      "rol_narrativo": "antagonista",
+      "altura_cm": 164,
+      "altura_fuente": "estimada",
+      "estado": "muerto",
+      "cita": null,
+      "cita_idioma": null,
+      "cita_estado": "pendiente",
+      "imagen_base": null,
+      "imagen_fuente": "pendiente",
+      "notas": "Altura corresponde al cuerpo de Vegeta, su huésped principal."
+    }
+  ]
+}

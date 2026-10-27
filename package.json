@@ -1,0 +1,19 @@
+{
+  "name": "dle",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.0.9",
+  "scripts": {
+    "dev": "pnpm --filter dragonballdle dev",
+    "build": "pnpm --filter dragonballdle build",
+    "start": "pnpm --filter dragonballdle start",
+    "test": "vitest run",
+    "typecheck": "pnpm -r typecheck",
+    "datos": "python data/build_dataset.py"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10"
+  }
+}
